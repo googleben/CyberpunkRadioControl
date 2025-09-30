@@ -1,0 +1,1112 @@
+[
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_heave_ho",
+    "primaryLocKey": 52818,
+    "trackEventName": "mus_radio_01_att_rock_heaven_ho"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_sufferme",
+    "primaryLocKey": 52817,
+    "trackEventName": "mus_radio_01_att_rock_suffer_me"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_black_terminal_vox_upgrade",
+    "primaryLocKey": 52834,
+    "trackEventName": "mus_radio_02_aggro_ind_black_terminal_vox_upgrade"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_come_close",
+    "primaryLocKey": 52833,
+    "trackEventName": "mus_radio_02_aggro_ind_comeclose"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_dead_pilot",
+    "primaryLocKey": 52832,
+    "trackEventName": "mus_radio_02_aggro_ind_dead_pilot"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_kill_the_messenger",
+    "primaryLocKey": 52830,
+    "trackEventName": "mus_radio_02_aggro_ind_kill_the_messenger"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_makes_me_feel_better",
+    "primaryLocKey": 52831,
+    "trackEventName": "mus_radio_02_aggro_ind_makes_me_feel_better"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_never_stop_me",
+    "primaryLocKey": 52837,
+    "trackEventName": "mus_radio_02_aggro_ind_never_stop_me"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_night_city_aliens",
+    "primaryLocKey": 52840,
+    "trackEventName": "mus_radio_02_aggro_ind_night_city_aliens"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_pain",
+    "primaryLocKey": 52839,
+    "trackEventName": "mus_radio_02_aggro_ind_pain"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_reaktion",
+    "primaryLocKey": 52835,
+    "trackEventName": "mus_radio_02_aggro_ind_reaktion"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_resist_and_disorder",
+    "primaryLocKey": 52829,
+    "trackEventName": "mus_radio_02_aggro_ind_resist_and_disorder"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_violence",
+    "primaryLocKey": 52838,
+    "trackEventName": "mus_radio_02_aggro_ind_violence"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_with_her",
+    "primaryLocKey": 52836,
+    "trackEventName": "mus_radio_02_aggro_ind_with_her"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_dirty_roses",
+    "primaryLocKey": 52847,
+    "trackEventName": "mus_radio_03_elec_ind_dirty_roses"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_flying_heads",
+    "primaryLocKey": 52857,
+    "trackEventName": "mus_radio_03_elec_ind_flying_heads"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_killkill",
+    "primaryLocKey": 52856,
+    "trackEventName": "mus_radio_03_elec_ind_killkill"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_maniak",
+    "primaryLocKey": 52850,
+    "trackEventName": "mus_radio_03_elec_ind_maniak"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_neuron",
+    "primaryLocKey": 53381,
+    "trackEventName": "mus_radio_03_elec_ind_neuron"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Elec_Ind_Ppgame05",
+    "primaryLocKey": 52854,
+    "trackEventName": "mus_radio_03_elec_ind_ppgame05"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Elec_Ind_Ppgame18",
+    "primaryLocKey": 52855,
+    "trackEventName": "mus_radio_03_elec_ind_ppgame18"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_run",
+    "primaryLocKey": 52853,
+    "trackEventName": "mus_radio_03_elec_ind_run"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_worlds",
+    "primaryLocKey": 52848,
+    "trackEventName": "mus_radio_03_elec_ind_worlds"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_x",
+    "primaryLocKey": 52849,
+    "trackEventName": "mus_radio_03_elec_ind_x"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_bigger_man",
+    "primaryLocKey": 52867,
+    "trackEventName": "mus_radio_04_hiphop_bigger_man"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_blouses_blue",
+    "primaryLocKey": 52865,
+    "trackEventName": "mus_radio_04_hiphop_blouses_blue"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_bruzez",
+    "primaryLocKey": 52875,
+    "trackEventName": "mus_radio_04_hiphop_bruzez"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_ccc",
+    "primaryLocKey": 53383,
+    "trackEventName": "mus_radio_04_hiphop_ccc"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_clip_boss",
+    "primaryLocKey": 52876,
+    "trackEventName": "mus_radio_04_hiphop_clip_boss"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_day_of_dead",
+    "primaryLocKey": 52874,
+    "trackEventName": "mus_radio_04_hiphop_day_of_dead"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_dishonor",
+    "primaryLocKey": 52869,
+    "trackEventName": "mus_radio_04_hiphop_dishonor"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_frost",
+    "primaryLocKey": 52870,
+    "trackEventName": "mus_radio_04_hiphop_frost"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_go_blaze",
+    "primaryLocKey": 52868,
+    "trackEventName": "mus_radio_04_hiphop_go_blaze"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_goodmorn",
+    "primaryLocKey": 52878,
+    "trackEventName": "mus_radio_04_hiphop_goodmorn"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-HipHop_Gr4ves",
+    "primaryLocKey": 52880,
+    "trackEventName": "mus_radio_04_hiphop_gr4ves"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_hs_bully",
+    "primaryLocKey": 52871,
+    "trackEventName": "mus_radio_04_hiphop_hs_bully"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_nbomdanalog",
+    "primaryLocKey": 52872,
+    "trackEventName": "mus_radio_04_hiphop_nbomdanalog"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_nose_bleed",
+    "primaryLocKey": 53382,
+    "trackEventName": "mus_radio_04_hiphop_nose_bleed"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_plucku",
+    "primaryLocKey": 52877,
+    "trackEventName": "mus_radio_04_hiphop_plucku"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_problem_kids",
+    "primaryLocKey": 52866,
+    "trackEventName": "mus_radio_04_hiphop_problem_kids"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_run_the_block",
+    "primaryLocKey": 52879,
+    "trackEventName": "mus_radio_04_hiphop_run_the_block"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_suicide",
+    "primaryLocKey": 52873,
+    "trackEventName": "mus_radio_04_hiphop_suicide"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_the_god_machines",
+    "primaryLocKey": 52864,
+    "trackEventName": "mus_radio_04_hiphop_the_god_machines"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_warning_shots",
+    "primaryLocKey": 52881,
+    "trackEventName": "mus_radio_04_hiphop_warning_shots"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_cirque_du_soleil",
+    "primaryLocKey": 52885,
+    "trackEventName": "mus_radio_05_pop_cirque_du_soleil"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_history",
+    "primaryLocKey": 52890,
+    "trackEventName": "mus_radio_05_pop_history"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_i_want_to_stay_at_your_house",
+    "primaryLocKey": 52888,
+    "trackEventName": "mus_radio_05_pop_i_want_to_stay_at_your_house"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_night_city",
+    "primaryLocKey": 52887,
+    "trackEventName": "mus_radio_05_pop_night_city"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_bios",
+    "primaryLocKey": 52901,
+    "trackEventName": "mus_radio_07_aggro_techno_bios"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_drained",
+    "primaryLocKey": 52902,
+    "trackEventName": "mus_radio_07_aggro_techno_drained"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_follow_the_white_crow",
+    "primaryLocKey": 52904,
+    "trackEventName": "mus_radio_07_aggro_techno_follow_the_white_crow"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_subvert",
+    "primaryLocKey": 52903,
+    "trackEventName": "mus_radio_07_aggro_techno_subvert"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_antagonistic",
+    "primaryLocKey": 52803,
+    "trackEventName": "mus_radio_09_downtempo_antagonistic"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_isometric_air",
+    "primaryLocKey": 52800,
+    "trackEventName": "mus_radio_09_downtempo_isometric_air"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_practical_heart",
+    "primaryLocKey": 52802,
+    "trackEventName": "mus_radio_09_downtempo_practical_heart"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_real_window",
+    "primaryLocKey": 52801,
+    "trackEventName": "mus_radio_09_downtempo_real_window"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_simplepleasures",
+    "primaryLocKey": 52804,
+    "trackEventName": "mus_radio_09_downtempo_simple_pleasures"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_bamo",
+    "primaryLocKey": 52914,
+    "trackEventName": "mus_radio_10_latino_bamo"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_barrio",
+    "primaryLocKey": 52918,
+    "trackEventName": "mus_radio_10_latino_barrio"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_cumbia",
+    "primaryLocKey": 52921,
+    "trackEventName": "mus_radio_10_latino_cumbia"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_daggafrica",
+    "primaryLocKey": 52915,
+    "trackEventName": "mus_radio_10_latino_daggafrica"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_dinero",
+    "primaryLocKey": 52916,
+    "trackEventName": "mus_radio_10_latino_dinero"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_muertothrash",
+    "primaryLocKey": 52922,
+    "trackEventName": "mus_radio_10_latino_muertothrash"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_serpant",
+    "primaryLocKey": 52917,
+    "trackEventName": "mus_radio_10_latino_serpant"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_abandoned_land",
+    "primaryLocKey": 52936,
+    "trackEventName": "mus_radio_11_metal_abandoned_land"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_acid_breather",
+    "primaryLocKey": 52928,
+    "trackEventName": "mus_radio_11_metal_acid_breather"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_black_concrete",
+    "primaryLocKey": 52937,
+    "trackEventName": "mus_radio_11_metal_black_concrete"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_finis",
+    "primaryLocKey": 52925,
+    "trackEventName": "mus_radio_11_metal_finis"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Metal_March30",
+    "primaryLocKey": 52927,
+    "trackEventName": "mus_radio_11_metal_march30"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_theaccursed",
+    "primaryLocKey": 52926,
+    "trackEventName": "mus_radio_11_metal_theaccursed"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_likewise",
+    "primaryLocKey": 52821,
+    "trackEventName": "mus_radio_01_attrock_likewise"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_cyber_caca",
+    "primaryLocKey": 52841,
+    "trackEventName": "mus_radio_02_aggroind_cyber_caca"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_be_machine",
+    "primaryLocKey": 52851,
+    "trackEventName": "mus_radio_03_electind_be_machine"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Elec_Ind_Cyberpunk_03",
+    "primaryLocKey": 52858,
+    "trackEventName": "mus_radio_03_electind_cyberpunk03_"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Elec_Ind_Cyberpunk_07",
+    "primaryLocKey": 52852,
+    "trackEventName": "mus_radio_03_electind_cyberpunk07"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_hole_in_the_sun",
+    "primaryLocKey": 52889,
+    "trackEventName": "mus_radio_05_pop_hole_in_the_sun"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_fake_spook",
+    "primaryLocKey": 52905,
+    "trackEventName": "mus_radio_08_aggro_techno_fake_spook"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_move_dat",
+    "primaryLocKey": 52906,
+    "trackEventName": "mus_radio_08_aggro_techno_move_dat"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Aggro_Techno_Cyberpunk_02",
+    "primaryLocKey": 52913,
+    "trackEventName": "mus_radio_08_aggro_techno_cyberpunk02"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Downtempo_Cdprojekt2_Uferlos",
+    "primaryLocKey": 52814,
+    "trackEventName": "mus_radio_09_downtempo_cdprojekt2_uferlos"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_chodze",
+    "primaryLocKey": 52805,
+    "trackEventName": "mus_radio_09_downtempo_chodze"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Downtempo_Cyberpunk_05",
+    "primaryLocKey": 52806,
+    "trackEventName": "mus_radio_09_downtempo_cyberpunk05"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Downtempo_Cyberpunk_06",
+    "primaryLocKey": 52807,
+    "trackEventName": "mus_radio_09_downtempo_cyberpunk06"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Downtempo_Cyberpunk_08",
+    "primaryLocKey": 52808,
+    "trackEventName": "mus_radio_09_downtempo_cyberpunk08"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_hood",
+    "primaryLocKey": 52920,
+    "trackEventName": "mus_radio_10_latino_hood"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_scum",
+    "primaryLocKey": 52931,
+    "trackEventName": "mus_radio_11_metal_scum"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_kevin",
+    "primaryLocKey": 52933,
+    "trackEventName": "mus_radio_11_metal_kevin"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_fueled_by_poison",
+    "primaryLocKey": 52932,
+    "trackEventName": "mus_radio_11_metal_fueled_by_poison"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Metal_2",
+    "primaryLocKey": 52929,
+    "trackEventName": "mus_radio_11_metal_2"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_friday_night_fire_fight",
+    "primaryLocKey": 52822,
+    "trackEventName": "mus_radio_01_att_rock_friday_night_fire_night"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_i_will_follow",
+    "primaryLocKey": 52819,
+    "trackEventName": "mus_radio_01_att_rock_i_will_follow"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_major_crimes",
+    "primaryLocKey": 52886,
+    "trackEventName": "mus_radio_05_pop_major_crimes"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_whos_ready",
+    "primaryLocKey": 52820,
+    "trackEventName": "mus_radio_05_pop_whos_ready"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_acid",
+    "primaryLocKey": 52908,
+    "trackEventName": "mus_radio_07_aggro_techno_acid"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_jam",
+    "primaryLocKey": 52908,
+    "trackEventName": "mus_radio_07_aggro_techno_jam"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_really_heavy_groove",
+    "primaryLocKey": 52909,
+    "trackEventName": "mus_radio_07_aggro_techno_really_heavy_groove"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_stoczterdziescitrzy",
+    "primaryLocKey": 52910,
+    "trackEventName": "mus_radio_07_aggro_techno_stoczterdziescitrzy"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_zero_acid",
+    "primaryLocKey": 52911,
+    "trackEventName": "mus_radio_07_aggro_techno_zero_acid"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_dub_dub_mix_ambient",
+    "primaryLocKey": 52810,
+    "trackEventName": "mus_radio_09_downtempo_dub_dub_mix_ambient"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_westcoast_till_i_die",
+    "primaryLocKey": 52924,
+    "trackEventName": "mus_radio_10_latino_westcoast_till_i_die"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_zurawie",
+    "primaryLocKey": 52935,
+    "trackEventName": "mus_radio_11_metal_zurawie"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_tatted_on_my_face",
+    "primaryLocKey": 52919,
+    "trackEventName": "mus_radio_10_latino_tatted_on_my_face"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-latino_only_son",
+    "primaryLocKey": 52923,
+    "trackEventName": "mus_radio_10_latino_only_son"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_crust_punk",
+    "primaryLocKey": 52894,
+    "trackEventName": "mus_radio_05_pop_crust_punk"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_heres_a_thought",
+    "primaryLocKey": 52895,
+    "trackEventName": "mus_radio_05_pop_heres_a_thought"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hiphop_yugen_blakrok",
+    "primaryLocKey": 52882,
+    "trackEventName": "mus_radio_04_hiphop_yugen_blakrok"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-elec_ind_brain_damaged",
+    "primaryLocKey": 52859,
+    "trackEventName": "mus_radio_03_elect_ind_brain_damaged"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Downtempo_Demo4",
+    "primaryLocKey": 52815,
+    "trackEventName": "mus_radio_09_downtempo_demo4"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Downtempo_Demo7",
+    "primaryLocKey": 52816,
+    "trackEventName": "mus_radio_09_downtempo_demo7"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_ashes_and_diamonds",
+    "primaryLocKey": 52813,
+    "trackEventName": "mus_radio_09_downtempo_ashes_and_diamonds"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Att_Rock_Mstr01",
+    "primaryLocKey": 52824,
+    "trackEventName": "mus_radio_01_att_rock_mstr01"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_stack_overflow",
+    "primaryLocKey": 53932,
+    "trackEventName": "mus_radio_07_aggro_techno_stack_overflow"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_dark_retro",
+    "primaryLocKey": 53932,
+    "trackEventName": "mus_radio_07_aggro_techno_dark_retro"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_cdpmetal_vascular",
+    "primaryLocKey": 52912,
+    "trackEventName": "mus_radio_07_aggro_techno_cdpmetal_vascular"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_ponpon_shit",
+    "primaryLocKey": 52891,
+    "trackEventName": "mus_radio_05_pop_ponpon_shit"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_le_stessa_causa",
+    "primaryLocKey": 52809,
+    "trackEventName": "mus_radio_09_downtempo_le_stessa_causa"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_miami_suicide",
+    "primaryLocKey": 52811,
+    "trackEventName": "mus_radio_09_downtempo_miami_suicide"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-downtempo_slippery_stab",
+    "primaryLocKey": 52812,
+    "trackEventName": "mus_radio_09_downtempo_slippery_stabs"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_future_drags",
+    "primaryLocKey": 52934,
+    "trackEventName": "mus_radio_11_metal_future_drags"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_the_loop",
+    "primaryLocKey": 52930,
+    "trackEventName": "mus_radio_11_metal_the_loop"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-Minim_Tech_Delirium2",
+    "primaryLocKey": 52897,
+    "trackEventName": "mus_radio_06_minim_tech_delirium2"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-minim_tech_harm_sweaty_pit",
+    "primaryLocKey": 52898,
+    "trackEventName": "mus_radio_06_minim_tech_harm_sweaty_pit"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-minim_tech_my_lullaby_for_you",
+    "primaryLocKey": 52899,
+    "trackEventName": "mus_radio_06_minim_tech_my_lullaby_for_you"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-minim_tech_pilling_in_my_head",
+    "primaryLocKey": 52896,
+    "trackEventName": "mus_radio_06_minim_tech_pilling_in_my_head"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-minim_tech_surprise_me",
+    "primaryLocKey": 52900,
+    "trackEventName": "mus_radio_06_minim_tech_surprise_me"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_black_dog",
+    "primaryLocKey": 52826,
+    "trackEventName": "mus_radio_01_att_rock_black_dog"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_chippin_in",
+    "primaryLocKey": 52827,
+    "trackEventName": "mus_radio_01_att_rock_chippin_in"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_never_fade_away",
+    "primaryLocKey": 52825,
+    "trackEventName": "mus_radio_01_att_rock_never_fade_away"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_the_ballad",
+    "primaryLocKey": 52828,
+    "trackEventName": "mus_radio_01_att_rock_the_ballad"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_trauma",
+    "primaryLocKey": 52823,
+    "trackEventName": "mus_radio_01_att_rock_trauma"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_cyber_tabla",
+    "primaryLocKey": 52842,
+    "trackEventName": "mus_radio_02_aggro_ind_cyber_tabla"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-metal_i_wont_let_you_go",
+    "primaryLocKey": 52938,
+    "trackEventName": "mus_radio_11_metal_i_wont_let_you_go"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_generique",
+    "primaryLocKey": 53369,
+    "trackEventName": "mus_radio_08_jazz_generique"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_solo_dancer",
+    "primaryLocKey": 53372,
+    "trackEventName": "mus_radio_08_jazz_solo_dancer"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_you_dont_know_what_love_is",
+    "primaryLocKey": 53374,
+    "trackEventName": "mus_radio_08_jazz_you_dont_know_what_love_is"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_black_satin",
+    "primaryLocKey": 53367,
+    "trackEventName": "mus_radio_08_jazz_black_satin_what_if_agharta"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_bitches_brew",
+    "primaryLocKey": 53368,
+    "trackEventName": "mus_radio_08_jazz_bitches_brew"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_impressions",
+    "primaryLocKey": 53371,
+    "trackEventName": "mus_radio_08_jazz_impressions"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_laura",
+    "primaryLocKey": 53373,
+    "trackEventName": "mus_radio_08_jazz_laura"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_round_midnight",
+    "primaryLocKey": 53375,
+    "trackEventName": "mus_radio_08_jazz_round_midnight"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-jazz_dark_prince",
+    "primaryLocKey": 53376,
+    "trackEventName": "mus_radio_08_jazz_dark_prince"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hip_hop_no_save_point",
+    "primaryLocKey": 52883,
+    "trackEventName": "mus_radio_04_hiphop_no_save_point"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_testmaster",
+    "primaryLocKey": 53359,
+    "trackEventName": "mus_radio_01_att_rock_no_convenient_apocalypse"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_ind_pig_dinner",
+    "primaryLocKey": 78159,
+    "trackEventName": "mus_radio_02_aggro_ind_pig_dinner"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-hip_hop_flacko_loco",
+    "primaryLocKey": 52884,
+    "trackEventName": "mus_radio_04_hiphop_ccc_flacko_loco"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_4aem",
+    "primaryLocKey": 53365,
+    "trackEventName": "mus_radio_05_pop_4aem"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_delicate_weapon",
+    "primaryLocKey": 53366,
+    "trackEventName": "mus_radio_05_pop_delicate_weapon"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_shygirl",
+    "primaryLocKey": 78160,
+    "trackEventName": "mus_radio_05_pop_shygirl"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-aggro_techno_cannibalismus",
+    "primaryLocKey": 53931,
+    "trackEventName": "mus_radio_07_aggro_techno_cannibalismus"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_summer_of_2069",
+    "primaryLocKey": 53358,
+    "trackEventName": "mus_radio_01_attrock_summer_of_2069"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_so_it_goes",
+    "primaryLocKey": 53362,
+    "trackEventName": "mus_radio_01_attrock_so_it_goes"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-att_rock_to_the_fullest",
+    "primaryLocKey": 53361,
+    "trackEventName": "mus_radio_01_attrock_to_the_fullest"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_off_the_leash",
+    "primaryLocKey": 52893,
+    "trackEventName": "mus_radio_05_pop_off_the_leash"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-pop_user_friendly",
+    "primaryLocKey": 52892,
+    "trackEventName": "mus_radio_05_pop_user_friendly"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "None",
+    "primaryLocKey": 0,
+    "trackEventName": "police_radio_noise_01"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "None",
+    "primaryLocKey": 0,
+    "trackEventName": "police_radio_noise_02"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "None",
+    "primaryLocKey": 0,
+    "trackEventName": "police_radio_noise_03"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_afterlife",
+    "primaryLocKey": 93678,
+    "trackEventName": "mus_radio_12_afterlife"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_candyshell",
+    "primaryLocKey": 93679,
+    "trackEventName": "mus_radio_12_candyshell"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_ch",
+    "primaryLocKey": 93680,
+    "trackEventName": "mus_radio_12_ch"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_do_or_die",
+    "primaryLocKey": 93681,
+    "trackEventName": "mus_radio_12_do_or_die"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_flatline",
+    "primaryLocKey": 93682,
+    "trackEventName": "mus_radio_12_flatline"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_fumes",
+    "primaryLocKey": 93683,
+    "trackEventName": "mus_radio_12_fumes"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_killshot",
+    "primaryLocKey": 93684,
+    "trackEventName": "mus_radio_12_killshot"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_kiroshi",
+    "primaryLocKey": 93685,
+    "trackEventName": "mus_radio_12_kiroshi"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_lit",
+    "primaryLocKey": 93686,
+    "trackEventName": "mus_radio_12_lit"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_nebula",
+    "primaryLocKey": 93687,
+    "trackEventName": "mus_radio_12_nebula"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_skin_on_flesh",
+    "primaryLocKey": 93688,
+    "trackEventName": "mus_radio_12_skin_on_flesh"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_slipstream",
+    "primaryLocKey": 93689,
+    "trackEventName": "mus_radio_12_slipstream"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_stars_die",
+    "primaryLocKey": 93690,
+    "trackEventName": "mus_radio_12_stars_die"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-growl_to_heaven",
+    "primaryLocKey": 93691,
+    "trackEventName": "mus_radio_12_to_heaven"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_27fuckdemons",
+    "primaryLocKey": 93692,
+    "trackEventName": "mus_radio_13_dstar_27fuckdemons"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_backxwash",
+    "primaryLocKey": 93693,
+    "trackEventName": "mus_radio_13_dstar_backxwash"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_chokehold",
+    "primaryLocKey": 93694,
+    "trackEventName": "mus_radio_13_dstar_chokehold"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_cykoarctic",
+    "primaryLocKey": 93695,
+    "trackEventName": "mus_radio_13_dstar_cykoarctic"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_hagop",
+    "primaryLocKey": 93696,
+    "trackEventName": "mus_radio_13_dstar_hagop"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_julek1",
+    "primaryLocKey": 93697,
+    "trackEventName": "mus_radio_13_dstar_julek1"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_julek2",
+    "primaryLocKey": 93698,
+    "trackEventName": "mus_radio_13_dstar_julek2"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_kyberpunk",
+    "primaryLocKey": 93699,
+    "trackEventName": "mus_radio_13_dstar_kyberpunk"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_minionsex",
+    "primaryLocKey": 93700,
+    "trackEventName": "mus_radio_13_dstar_minionsex"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_mzuzu",
+    "primaryLocKey": 93701,
+    "trackEventName": "mus_radio_13_dstar_mzuzu"
+  },
+  {
+    "isStreamingFriendly": 0,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_roller",
+    "primaryLocKey": 93702,
+    "trackEventName": "mus_radio_13_dstar_roller"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_zuukuka",
+    "primaryLocKey": 93703,
+    "trackEventName": "mus_radio_13_dstar_zuukuka"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-impulse_djset",
+    "primaryLocKey": 93704,
+    "trackEventName": "mus_radio_14_impulse_djset"
+  },
+  {
+    "isStreamingFriendly": 1,
+    "localizationKey": "Gameplay-Devices-Radio_tracks-dstar_drk",
+    "primaryLocKey": 93705,
+    "trackEventName": "mus_radio_13_dstar_drk"
+  }
+]
