@@ -12,6 +12,7 @@ local Radio = {
     nowPlaying = nil,
     nowPlayingArr = {},
     playlistById = {},
+    playlistAutoAdvanceCooldown = 0,
 }
 
 function Radio:AddSongToPlaylistNoSave(song)
@@ -99,6 +100,7 @@ end
 
 -- play a random song from the playlist that is not the current song
 function Radio:PlayNextPlaylistSong()
+    print("[Radio] Advancing to next playlist song")
     local n = math.random(1, #self.playlist)
     if #self.playlist == 0 then
         print("[Radio] Playlist is empty, cannot play next song")
@@ -113,7 +115,12 @@ function Radio:PlayNextPlaylistSong()
         end
     end
     self.curPlayingInd = n
+    print("[Radio] Playing playlist song index " .. n)
     local song = self.playlist[n]
+    if song == nil then
+        print("[Radio] ERROR: Song is nil")
+        return
+    end
     song:Play()
     RadioControl:GetPlayerRadio():SwitchToStation(song)
 end
@@ -131,6 +138,7 @@ end
 -- update function, call every game update
 function Radio:Update(dt)
     self.updateTimer = self.updateTimer + dt
+    self.playlistAutoAdvanceCooldown = math.max(0, self.playlistAutoAdvanceCooldown - dt)
     if self.updateTimer < 1 then return end
     self.updateTimer = 0
     for k, station in pairs(RadioControl.stations) do
@@ -141,11 +149,17 @@ function Radio:Update(dt)
     if self.dropdownStation ~= nil then
         self.dropdownStationPlaying = self.dropdownStation:GetNowPlaying()
     end
-    if self.playingPlaylist then
-        local currSong = self.playlist[self.curPlayingInd]
-
-        if currSong == nil or self.nowPlaying == nil or currSong:GetID() ~= self.nowPlaying:GetID() then
+    if self.playingPlaylist and self.playlistAutoAdvanceCooldown == 0 then
+        if self.curPlayingInd == -1 then
             self:PlayNextPlaylistSong()
+            self.playlistAutoAdvanceCooldown = 10
+        else
+            local currSong = self.playlist[self.curPlayingInd]
+
+            if currSong == nil or self.nowPlaying == nil or currSong:GetID() ~= self.nowPlaying:GetID() then
+                self:PlayNextPlaylistSong()
+                self.playlistAutoAdvanceCooldown = 10
+            end
         end
     end
 end
@@ -249,7 +263,6 @@ function Radio:Draw()
             ImGui.TableSetupColumn("Station")
             ImGui.TableSetupColumn("Track")
             ImGui.TableHeadersRow()
-            --print(RadioControl.stations)
             for k, station in pairs(RadioControl.stations) do
                 local np = self.nowPlayingArr[k]
                 if np == nil then

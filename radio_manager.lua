@@ -102,12 +102,10 @@ function RadioControl:GetStation(key)
     if type(key) == "number" then
         return self.stations[key]
     elseif type(key) == "string" then
-        print("Get station string: " .. key)
         return self.stationsByName[key]
             or self.stationsByLocKey[key]
             or self.stationsByLocalized[key]
     else
-        print("Get station CName: " .. tostring(key))
         if key.hash_lo ~= nil then
             -- assume it's a CName
             if key.hash_hi == 0 and key.hash_lo ~= 0 then
@@ -162,10 +160,8 @@ function Radio:GetCurrentStation()
     if player == nil then return nil end
     local car = Game.GetMountedVehicle(player)
     if car ~= nil then
-        print("[Radio] Got car")
         if not car:IsRadioReceiverActive() then return nil end
         local stationLocKey = car:GetRadioReceiverStationName()
-        print("[Radio] Car station loc key: " .. tostring(stationLocKey))
         return RadioControl:GetStation(stationLocKey)
     end
     local pr = player:GetPocketRadio()
@@ -178,9 +174,7 @@ end
 
 -- Gets the song currently playing on the player's radio, or nil if no song is playing
 function Radio:GetNowPlaying()
-    print("[Radio] Getting current station")
     local station = self:GetCurrentStation()
-    print("[Radio] Current station: " .. (station ~= nil and station:GetLocalized() or "nil"))
     if station == nil then return nil end
     return station:GetNowPlaying()
 end
@@ -188,6 +182,7 @@ end
 function Radio:SwitchToStation(stationOrSong)
     if stationOrSong.GetStation ~= nil then
         -- it's a song
+        print("test song")
         stationOrSong = stationOrSong:GetStation()
     end
     local player = Game.GetPlayer()
@@ -200,7 +195,10 @@ function Radio:SwitchToStation(stationOrSong)
     end
     local pr = player:GetPocketRadio()
     if pr ~= nil then
+        pr.station = stationOrSong.index
+        pr.selectedStation = stationOrSong.index
         player:PSSetPocketRadioStation(stationOrSong.index)
+        pr:TurnOn(false)
     end
     return
 end
