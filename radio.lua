@@ -14,7 +14,7 @@ local Radio = {
     playlistById = {},
 }
 
-function Radio:AddSongToPlaylist(song)
+function Radio:AddSongToPlaylistNoSave(song)
     local id = song:GetID()
     if self.playlistById[id] then
         print("[Radio] Song already in playlist: " .. id)
@@ -25,6 +25,10 @@ function Radio:AddSongToPlaylist(song)
     table.insert(self.playlistNames, song:GetLocalized())
     self.playlistById[id] = true
     print("[Radio] Added song to playlist: " .. id)
+end
+
+function Radio:AddSongToPlaylist(song)
+    self:AddSongToPlaylistNoSave(song)
     self:SavePlaylist()
 end
 
@@ -82,7 +86,7 @@ function Radio:LoadPlaylist()
         self.playlistById = {}
         self.playlistNames = {}
         for _, id in ipairs(ids) do
-            self:AddSongToPlaylist(RadioControl:GetSong(id))
+            self:AddSongToPlaylistNoSave(RadioControl:GetSong(id))
         end
         print("[Radio] Loaded playlist with " .. #self.playlist .. " songs")
     else
