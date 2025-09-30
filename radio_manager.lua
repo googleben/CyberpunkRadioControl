@@ -89,7 +89,7 @@ function RadioControl:GetStationsByLocalized() return self.stationsByLocalized e
 function RadioControl:GetSongsByLocKey() return self.songsByLocKey end
 function RadioControl:GetSongsByPrimaryLocKey() return self.songsByPrimaryLocKey end
 function RadioControl:GetSongsByLocalized() return self.songsByLocalized end
-function RadioControl:GetNumSongs() return 
+function RadioControl:GetNumSongs()
     local count = 0
     for _, _ in pairs(self.songs) do
         count = count + 1
@@ -102,8 +102,12 @@ function RadioControl:GetStation(key)
     if type(key) == "number" then
         return self.stations[key]
     elseif type(key) == "string" then
+        print("Get station string: " .. key)
         return self.stationsByName[key]
+            or self.stationsByLocKey[key]
+            or self.stationsByLocalized[key]
     else
+        print("Get station CName: " .. tostring(key))
         if key.hash_lo ~= nil then
             -- assume it's a CName
             if key.hash_hi == 0 and key.hash_lo ~= 0 then
@@ -113,6 +117,8 @@ function RadioControl:GetStation(key)
                     or self.stationsByName[key.value]
             end
             return self.stationsByName[key.value]
+                or self.stationsByLocKey[key.value]
+                or self.stationsByLocalized[Game.GetLocalizedTextByKey(key)]
         end
         -- assume it's a ERadioStationList
         return self.stations[tonumber(EnumInt(key))]
@@ -156,9 +162,11 @@ function Radio:GetCurrentStation()
     if player == nil then return nil end
     local car = Game.GetMountedVehicle(player)
     if car ~= nil then
+        print("[Radio] Got car")
         if not car:IsRadioReceiverActive() then return nil end
         local stationLocKey = car:GetRadioReceiverStationName()
-        return self:GetStation(stationLocKey)
+        print("[Radio] Car station loc key: " .. tostring(stationLocKey))
+        return RadioControl:GetStation(stationLocKey)
     end
     local pr = player:GetPocketRadio()
     if pr ~= nil then
@@ -170,9 +178,31 @@ end
 
 -- Gets the song currently playing on the player's radio, or nil if no song is playing
 function Radio:GetNowPlaying()
+    print("[Radio] Getting current station")
     local station = self:GetCurrentStation()
+    print("[Radio] Current station: " .. (station ~= nil and station:GetLocalized() or "nil"))
     if station == nil then return nil end
     return station:GetNowPlaying()
+end
+
+function Radio:SwitchToStation(stationOrSong)
+    if stationOrSong.GetStation ~= nil then
+        -- it's a song
+        stationOrSong = stationOrSong:GetStation()
+    end
+    local player = Game.GetPlayer()
+    if player == nil then return nil end
+    local car = Game.GetMountedVehicle(player)
+    if car ~= nil then
+        if not car:IsRadioReceiverActive() then return nil end
+        car:SetRadioReceiverStation(stationOrSong.index)
+        return
+    end
+    local pr = player:GetPocketRadio()
+    if pr ~= nil then
+        player:PSSetPocketRadioStation(stationOrSong.index)
+    end
+    return
 end
 
 -- Gets the player's current radio

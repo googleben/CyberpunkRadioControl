@@ -111,6 +111,7 @@ function Radio:PlayNextPlaylistSong()
     self.curPlayingInd = n
     local song = self.playlist[n]
     song:Play()
+    RadioControl:GetPlayerRadio():SwitchToStation(song)
 end
 
 -- constructor
@@ -202,6 +203,7 @@ function Radio:Draw()
         end
         if ImGui.Button("Play") then
             currSong:Play()
+            RadioControl:GetPlayerRadio():SwitchToStation(currSong)
         end
         --add/remove from playlist
         local indInPlaylist = -1
