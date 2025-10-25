@@ -6,7 +6,6 @@ registerForEvent("onInit", function()
 end)
 
 registerForEvent("onShutdown", function()
-    sinceUpdate = 0
     shouldDraw = false
 end)
 
@@ -24,14 +23,5 @@ end)
 
 registerForEvent("onDraw", function()
     if not shouldDraw then return end
-
-    if ImGui.Begin("RadioControl", ImGuiWindowFlags.NoScrollbar) then
-        if ImGui.BeginTabBar("RadioControlTabs", ImGuiTabBarFlags.None) then
-
-            Radio:Draw()
-
-            ImGui.EndTabBar()
-        end
-    end
-    ImGui.End()
+    Radio:Draw()
 end)
